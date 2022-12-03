@@ -22,6 +22,14 @@ h1 {
   color: #4ECCA3;
 }
 
+h2 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
@@ -30,6 +38,17 @@ p {
 
 img {
   width: 80%;
+}
+
+button{
+  padding: 20px;
+  background-color: #b1c6e9;
+  border: 0px;
+  border-radius: 10px;
+  color: #232931;
+  font-weight: 700;
+  font-size: 1.1rem;
+  cursor: pointer;
 }
 
 footer {
